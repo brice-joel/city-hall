@@ -39,8 +39,6 @@ export default function CameroonBirthCertificateDocument({ acte, isPrintOnly = f
 
             {/* Central Title */}
             <div className="text-center space-y-1.5 py-1 border-b border-slate-300">
-                <h2 className="text-xl sm:text-2xl font-black tracking-widest text-slate-900">COPIE - COPY</h2>
-                
                 <div className="space-y-0.5">
                     <p className="font-bold text-xs uppercase">CENTRE D'ETAT CIVIL</p>
                     <p className="italic text-[11px] text-slate-600">CIVIL STATUS REGISTRATION CENTRE</p>

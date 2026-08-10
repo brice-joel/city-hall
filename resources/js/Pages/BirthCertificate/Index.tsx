@@ -295,7 +295,7 @@ export default function BirthCertificateIndex({
                                 </div>
                                 <div>
                                     <h3 className="font-bold text-base sm:text-lg text-white">
-                                        Copie d'Acte de Naissance N° {selectedActe.numero_acte}
+                                        Acte de Naissance N° {selectedActe.numero_acte}
                                     </h3>
                                     <p className="text-xs text-slate-400">
                                         République du Cameroun - Format Officiel Bilingue

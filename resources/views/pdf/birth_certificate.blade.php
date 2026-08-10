@@ -178,7 +178,6 @@
 
     <!-- Central Title Area -->
     <div class="title-area">
-        <h1 class="main-title">COPIE - COPY</h1>
         <div class="centre-title">CENTRE D'ETAT CIVIL / CIVIL STATUS REGISTRATION CENTRE</div>
         <div class="italic">de - of : <strong>{{ $acte->centre_etat_civil }}</strong></div>
 
